@@ -8,3 +8,9 @@ print(a is c)#true
 print(id(a))
 print(id(b))
 print(id(c))
+
+#(+-/)
+print(1+2)
+print(2-1)
+print(2*1)
+print(2/1)  
